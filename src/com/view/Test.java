@@ -10,11 +10,11 @@ import com.service.ProductServiceImpl;
 public class Test {
 
 	public static void main(String[] args) {
-		add();
+	//	add();
 		getAll();
-		delete();
-		//project list after deleted
-		getAll();
+//		delete();
+//		//project list after deleted
+//		getAll();
 	}
 
 	// add product
